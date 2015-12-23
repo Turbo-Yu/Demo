@@ -1,0 +1,10 @@
+E:\WorkSpace\CRMDemo\Demo.Interface\bin\Debug\Demo.Interface.dll
+E:\WorkSpace\CRMDemo\Demo.Interface\bin\Debug\Demo.Interface.pdb
+E:\WorkSpace\CRMDemo\Demo.Interface\obj\Debug\Demo.Interface.csprojResolveAssemblyReference.cache
+E:\WorkSpace\CRMDemo\Demo.Interface\obj\Debug\Demo.Interface.dll
+E:\WorkSpace\CRMDemo\Demo.Interface\obj\Debug\Demo.Interface.pdb
+E:\WorkSpace\Demo\Demo.Interface\bin\Debug\Demo.Interface.dll
+E:\WorkSpace\Demo\Demo.Interface\bin\Debug\Demo.Interface.pdb
+E:\WorkSpace\Demo\Demo.Interface\obj\Debug\Demo.Interface.dll
+E:\WorkSpace\Demo\Demo.Interface\obj\Debug\Demo.Interface.pdb
+E:\WorkSpace\Demo\Demo.Interface\obj\Debug\Demo.Interface.csprojResolveAssemblyReference.cache

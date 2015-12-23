@@ -1,0 +1,14 @@
+E:\WorkSpace\CRMDemo\Demo.Service\bin\Debug\Demo.Service.dll
+E:\WorkSpace\CRMDemo\Demo.Service\bin\Debug\Demo.Service.pdb
+E:\WorkSpace\CRMDemo\Demo.Service\bin\Debug\Demo.Interface.dll
+E:\WorkSpace\CRMDemo\Demo.Service\bin\Debug\Demo.Interface.pdb
+E:\WorkSpace\CRMDemo\Demo.Service\obj\Debug\Demo.Service.csprojResolveAssemblyReference.cache
+E:\WorkSpace\CRMDemo\Demo.Service\obj\Debug\Demo.Service.dll
+E:\WorkSpace\CRMDemo\Demo.Service\obj\Debug\Demo.Service.pdb
+E:\WorkSpace\Demo\Demo.Service\bin\Debug\Demo.Service.dll
+E:\WorkSpace\Demo\Demo.Service\bin\Debug\Demo.Service.pdb
+E:\WorkSpace\Demo\Demo.Service\bin\Debug\Demo.Interface.dll
+E:\WorkSpace\Demo\Demo.Service\bin\Debug\Demo.Interface.pdb
+E:\WorkSpace\Demo\Demo.Service\obj\Debug\Demo.Service.csprojResolveAssemblyReference.cache
+E:\WorkSpace\Demo\Demo.Service\obj\Debug\Demo.Service.dll
+E:\WorkSpace\Demo\Demo.Service\obj\Debug\Demo.Service.pdb
