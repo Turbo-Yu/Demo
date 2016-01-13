@@ -37,11 +37,15 @@ E:\WorkSpace\Demo\WcfDemo\Demo\Demo.Server\bin\Demo.Core.dll
 E:\WorkSpace\Demo\WcfDemo\Demo\Demo.Server\bin\Demo.Interface.dll
 E:\WorkSpace\Demo\WcfDemo\Demo\Demo.Server\bin\Demo.Service.dll
 E:\WorkSpace\Demo\WcfDemo\Demo\Demo.Server\bin\Castle.Windsor.dll
+E:\WorkSpace\Demo\WcfDemo\Demo\Demo.Server\bin\NLog.dll
+E:\WorkSpace\Demo\WcfDemo\Demo\Demo.Server\bin\Newtonsoft.Json.dll
 E:\WorkSpace\Demo\WcfDemo\Demo\Demo.Server\bin\Castle.Core.dll
 E:\WorkSpace\Demo\WcfDemo\Demo\Demo.Server\bin\Demo.Interface.pdb
 E:\WorkSpace\Demo\WcfDemo\Demo\Demo.Server\bin\Demo.Service.pdb
 E:\WorkSpace\Demo\WcfDemo\Demo\Demo.Server\bin\Demo.Core.pdb
 E:\WorkSpace\Demo\WcfDemo\Demo\Demo.Server\bin\Castle.Windsor.xml
+E:\WorkSpace\Demo\WcfDemo\Demo\Demo.Server\bin\NLog.xml
+E:\WorkSpace\Demo\WcfDemo\Demo\Demo.Server\bin\Newtonsoft.Json.xml
 E:\WorkSpace\Demo\WcfDemo\Demo\Demo.Server\bin\Castle.Core.xml
 E:\WorkSpace\Demo\WcfDemo\Demo\Demo.Server\obj\Debug\Demo.Server.csprojResolveAssemblyReference.cache
 E:\WorkSpace\Demo\WcfDemo\Demo\Demo.Server\obj\Debug\Demo.Server.dll

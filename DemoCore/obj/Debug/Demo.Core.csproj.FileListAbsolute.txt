@@ -20,8 +20,12 @@ E:\WorkSpace\Demo\WcfDemo\Demo\DemoCore\bin\Debug\Demo.Core.dll
 E:\WorkSpace\Demo\WcfDemo\Demo\DemoCore\bin\Debug\Demo.Core.pdb
 E:\WorkSpace\Demo\WcfDemo\Demo\DemoCore\bin\Debug\Castle.Core.dll
 E:\WorkSpace\Demo\WcfDemo\Demo\DemoCore\bin\Debug\Castle.Windsor.dll
+E:\WorkSpace\Demo\WcfDemo\Demo\DemoCore\bin\Debug\Newtonsoft.Json.dll
+E:\WorkSpace\Demo\WcfDemo\Demo\DemoCore\bin\Debug\NLog.dll
 E:\WorkSpace\Demo\WcfDemo\Demo\DemoCore\bin\Debug\Castle.Core.xml
 E:\WorkSpace\Demo\WcfDemo\Demo\DemoCore\bin\Debug\Castle.Windsor.xml
+E:\WorkSpace\Demo\WcfDemo\Demo\DemoCore\bin\Debug\Newtonsoft.Json.xml
+E:\WorkSpace\Demo\WcfDemo\Demo\DemoCore\bin\Debug\NLog.xml
 E:\WorkSpace\Demo\WcfDemo\Demo\DemoCore\obj\Debug\Demo.Core.csprojResolveAssemblyReference.cache
 E:\WorkSpace\Demo\WcfDemo\Demo\DemoCore\obj\Debug\Demo.Core.dll
 E:\WorkSpace\Demo\WcfDemo\Demo\DemoCore\obj\Debug\Demo.Core.pdb

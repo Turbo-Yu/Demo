@@ -10,6 +10,5 @@ E:\WorkSpace\Demo\Demo.Interface\obj\Debug\Demo.Interface.pdb
 E:\WorkSpace\Demo\Demo.Interface\obj\Debug\Demo.Interface.csprojResolveAssemblyReference.cache
 E:\WorkSpace\Demo\WcfDemo\Demo\Demo.Interface\bin\Debug\Demo.Interface.dll
 E:\WorkSpace\Demo\WcfDemo\Demo\Demo.Interface\bin\Debug\Demo.Interface.pdb
-E:\WorkSpace\Demo\WcfDemo\Demo\Demo.Interface\obj\Debug\Demo.Interface.csprojResolveAssemblyReference.cache
 E:\WorkSpace\Demo\WcfDemo\Demo\Demo.Interface\obj\Debug\Demo.Interface.dll
 E:\WorkSpace\Demo\WcfDemo\Demo\Demo.Interface\obj\Debug\Demo.Interface.pdb
