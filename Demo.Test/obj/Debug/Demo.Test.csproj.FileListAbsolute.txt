@@ -8,3 +8,14 @@ E:\WorkSpace\Demo\Demo.Test\bin\Debug\Demo.Service.pdb
 E:\WorkSpace\Demo\Demo.Test\obj\Debug\Demo.Test.csprojResolveAssemblyReference.cache
 E:\WorkSpace\Demo\Demo.Test\obj\Debug\Demo.Test.dll
 E:\WorkSpace\Demo\Demo.Test\obj\Debug\Demo.Test.pdb
+E:\WorkSpace\Demo\WcfDemo\Demo\Demo.Test\bin\Debug\Demo.Test.dll
+E:\WorkSpace\Demo\WcfDemo\Demo\Demo.Test\bin\Debug\Demo.Test.pdb
+E:\WorkSpace\Demo\WcfDemo\Demo\Demo.Test\bin\Debug\Demo.Interface.dll
+E:\WorkSpace\Demo\WcfDemo\Demo\Demo.Test\bin\Debug\Demo.Service.dll
+E:\WorkSpace\Demo\WcfDemo\Demo\Demo.Test\bin\Debug\nunit.framework.dll
+E:\WorkSpace\Demo\WcfDemo\Demo\Demo.Test\bin\Debug\Demo.Interface.pdb
+E:\WorkSpace\Demo\WcfDemo\Demo\Demo.Test\bin\Debug\Demo.Service.pdb
+E:\WorkSpace\Demo\WcfDemo\Demo\Demo.Test\bin\Debug\nunit.framework.xml
+E:\WorkSpace\Demo\WcfDemo\Demo\Demo.Test\obj\Debug\Demo.Test.csprojResolveAssemblyReference.cache
+E:\WorkSpace\Demo\WcfDemo\Demo\Demo.Test\obj\Debug\Demo.Test.dll
+E:\WorkSpace\Demo\WcfDemo\Demo\Demo.Test\obj\Debug\Demo.Test.pdb

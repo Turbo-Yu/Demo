@@ -2,6 +2,7 @@
 
 namespace Demo.Interface
 {
+    [ServiceContract]
     public interface ICommonService
     {
         [OperationContract]

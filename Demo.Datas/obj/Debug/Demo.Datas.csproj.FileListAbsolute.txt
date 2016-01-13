@@ -16,3 +16,10 @@ E:\WorkSpace\Demo\Demo.Datas\bin\Debug\MongoDB.Driver.xml
 E:\WorkSpace\Demo\Demo.Datas\obj\Debug\Demo.Datas.dll
 E:\WorkSpace\Demo\Demo.Datas\obj\Debug\Demo.Datas.pdb
 E:\WorkSpace\Demo\Demo.Datas\obj\Debug\Demo.Datas.csprojResolveAssemblyReference.cache
+E:\WorkSpace\Demo\WcfDemo\Demo\Demo.Datas\bin\Debug\Demo.Datas.dll
+E:\WorkSpace\Demo\WcfDemo\Demo\Demo.Datas\bin\Debug\Demo.Datas.pdb
+E:\WorkSpace\Demo\WcfDemo\Demo\Demo.Datas\bin\Debug\MongoDB.Bson.dll
+E:\WorkSpace\Demo\WcfDemo\Demo\Demo.Datas\bin\Debug\MongoDB.Driver.dll
+E:\WorkSpace\Demo\WcfDemo\Demo\Demo.Datas\obj\Debug\Demo.Datas.csprojResolveAssemblyReference.cache
+E:\WorkSpace\Demo\WcfDemo\Demo\Demo.Datas\obj\Debug\Demo.Datas.dll
+E:\WorkSpace\Demo\WcfDemo\Demo\Demo.Datas\obj\Debug\Demo.Datas.pdb

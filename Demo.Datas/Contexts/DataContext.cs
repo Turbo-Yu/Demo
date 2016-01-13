@@ -1,4 +1,5 @@
 ﻿using System;
+using Demo.Core;
 using MongoDB.Driver;
 
 namespace Demo.Datas.Contexts
@@ -6,9 +7,9 @@ namespace Demo.Datas.Contexts
     internal sealed class DataContext
     {
         private static readonly Object _contextLock = new object();
-        private static String _serverIp = "121.40.213.248";
-        private static Int32 _serverPort = 12138;
-        private static String _dataBase = "TruckNo1_Test150601";
+        private static String _serverIp = ConfigUtil.GetString("Mongodb.Server", "l20.0.0.0");//"121.40.213.248";
+        private static Int32 _serverPort = ConfigUtil.GetInt("Mongodb.ServerPort", 27017);//12138;
+        private static String _dataBase = ConfigUtil.GetString("Mongodb.Database", "test");//"TruckNo1_Test150601";
 
         static MongoClient _client;
         static MongoServer _server;
