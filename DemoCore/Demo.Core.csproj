@@ -38,6 +38,14 @@
       <SpecificVersion>False</SpecificVersion>
       <HintPath>..\..\Lib\Castle.Windsor.dll</HintPath>
     </Reference>
+    <Reference Include="Newtonsoft.Json, Version=8.0.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\..\Lib\Newtonsoft.Json.dll</HintPath>
+    </Reference>
+    <Reference Include="NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\..\Lib\NLog.dll</HintPath>
+    </Reference>
     <Reference Include="System" />
     <Reference Include="System.Configuration" />
     <Reference Include="System.Core" />
@@ -50,6 +58,8 @@
   <ItemGroup>
     <Compile Include="ConfigUtil.cs" />
     <Compile Include="Converter\ConverterFactory.cs" />
+    <Compile Include="Converter\ConvertJson\JsonHelper.cs" />
+    <Compile Include="Converter\ConvertJson\JsonPropertiesResolver.cs" />
     <Compile Include="Converter\IStringConverter.cs" />
     <Compile Include="Converter\ToArray.cs" />
     <Compile Include="Converter\ToBool.cs" />
